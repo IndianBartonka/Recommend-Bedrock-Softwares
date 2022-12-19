@@ -2,6 +2,7 @@
 # Recommend Bedrock Softwares
 This repository is a collection of softwares and proxies for minecraft Bedrock that I used and can recommend to some extent
 
+# Server Software
 ## Server softwares most recommended 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdsx&repo=bdsx)](https://github.com/bdsx/bdsx)
 <sup>``This is Bedrock Dedicated Server in extended version``</sup>
@@ -23,6 +24,7 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=df-mc&repo=dragonfly)](https://github.com/df-mc/dragonfly)
 <sup>``I don't know what this software could be used for, but it works, contains a bit  blocks and functions, maybe it will change in the future``</sup>
 
+#Proxy
 ## Proxies most recommended 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WaterdogPE&repo=WaterdogPE)](https://github.com/WaterdogPE/WaterdogPE)
 <sup>``With this proxy, I recommend connecting servers running Nukkit PetteriM1 Edition software or regular Nukkit``</sup>
