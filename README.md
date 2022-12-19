@@ -28,6 +28,6 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 ### Proxies most recommended 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WaterdogPE&repo=WaterdogPE)](https://github.com/WaterdogPE/WaterdogPE)
 <sup>``With this proxy, I recommend connecting servers running Nukkit PetteriM1 Edition software or regular Nukkit``</sup>
-### Proxies i not tested 
+### Proxies,I not tested 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CloudburstMC&repo=Nemisys)](https://github.com/CloudburstMC/Nemisys)
 <sup>``I never used this proxy``</sup>
