@@ -6,7 +6,7 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdsx&repo=bdsx)](https://github.com/bdsx/bdsx)
 <sup>``This is Bedrock Dedicated Server in extended version``</sup>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CloudburstMC&repo=Nukkit)](https://github.com/CloudburstMC/Nukkit)
-<sup>``This is continued by cloudburst nukkit``</sup>
+<sup>``Continuation of nukkit by cloudburst``</sup>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petterim1&repo=NukkitPetteriM1Edition)](https://github.com/PetteriM1/NukkitPetteriM1Edition)</br>
 <sup>``This version of Nukkit support mutli version``</sup>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerNukkitX&repo=PowerNukkitX)](https://github.com/PowerNukkitX/PowerNukkitX)
