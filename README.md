@@ -24,6 +24,11 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=df-mc&repo=dragonfly)](https://github.com/df-mc/dragonfly)</br>
 <sup>``I don't know what this software could be used for, but it works, contains a bit  blocks and functions, maybe it will change in the future``</sup></br>
 
+### Not tested but supposedly good
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiteLDev&repo=LiteLoaderBDS)](https://github.com/LiteLDev/LiteLoaderBDS)</br>
+<sup>``I haven't used this software but apparently it's good, as far as I know it's bds in the extended version``</sup></br>
+
+
 # Proxy
 ### Most recommended 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WaterdogPE&repo=WaterdogPE)](https://github.com/WaterdogPE/WaterdogPE)</br>
