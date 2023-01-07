@@ -20,7 +20,7 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 <sup>``Very old software in my opinion is only suitable for mini games``</sup></br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucGamesYT&repo=JukeboxMC)](https://github.com/LucGamesYT/JukeboxMC)</br>
 <sup>``Jukeboxmc is to get a rewrite, but for now I think it's only good for mini games``</sup></br>
-### I don't know what they can be used for 
+### I don't know what they can be used for (maybe also minigames)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=df-mc&repo=dragonfly)](https://github.com/df-mc/dragonfly)</br>
 <sup>``I don't know what this software could be used for, but it works, contains a bit  blocks and functions, maybe it will change in the future``</sup></br>
 
