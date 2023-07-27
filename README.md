@@ -2,6 +2,11 @@
 # Recommend Bedrock Softwares
 This repository is a collection of softwares and proxies for minecraft Bedrock that I used and can recommend to some extent
 
+# Applications
+### My apps
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huje22&repo=Bds-Auto-Enable)](https://github.com/Huje22/Bds-Auto-Enable)
+<sup>``This is server luncher for auto restart and world backup for bds , currently only in Polish language`` </br>(Still have so many changes)</sup></br>
+
 # Server Software
 ### Most recommended 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdsx&repo=bdsx)](https://github.com/bdsx/bdsx)</br>
