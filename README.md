@@ -4,7 +4,7 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 
 # Applications
 ### My apps
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huje22&repo=Bds-Auto-Enable)](https://github.com/Huje22/Bds-Auto-Enable)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huje22&repo=Bds-Auto-Enable)](https://github.com/Huje22/Bds-Auto-Enable)<br>
 <sup>``This is server luncher for auto restart and world backup for bds , currently only in Polish language`` </br>(Still have so many changes)</sup></br>
 
 # Server Software
@@ -14,12 +14,12 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CloudburstMC&repo=Nukkit)](https://github.com/CloudburstMC/Nukkit)</br>
 <sup>``Continuation of nukkit by cloudburst``</sup></br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petterim1&repo=NukkitPetteriM1Edition)](https://github.com/PetteriM1/NukkitPetteriM1Edition)</br>
-<sup>``This version of Nukkit support mutli version``</sup></br></br>
+<sup>``This version of Nukkit support mutli version``</sup></br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerNukkitX&repo=PowerNukkitX)](https://github.com/PowerNukkitX/PowerNukkitX)</br>
 <sup>``It is very suitable for Survival, it contains a great generator (terra) and a lot of blocks``</sup></br>
 ### Also good 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerNukkit&repo=PowerNukkit)](https://github.com/PowerNukkit/PowerNukkit)</br>
-<sup>``I prefer PowerNukkitX but if it doesn't work for you, you can use PowerNukkit``</sup></br>
+<sup>``[DISCONTINUED] I prefer PowerNukkitX but if it doesn't work for you, you can use PowerNukkit``</sup></br>
 ### Only for minigames
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmmp&repo=PocketMine-MP)](https://github.com/pmmp/PocketMine-MP)</br>
 <sup>``Very old software in my opinion is only suitable for mini games``</sup></br>
