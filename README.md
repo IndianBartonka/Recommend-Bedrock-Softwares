@@ -50,7 +50,7 @@ This repository is a collection of softwares and proxies for minecraft Bedrock t
 [![ViaBedrock](https://github-readme-stats.vercel.app/api/pin/?username=RaphiMC&repo=ViaBedrock)](https://github.com/RaphiMC/ViaBedrock)</br>
 <sup>``Best project , still in development ``</sup></br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavyCraft648&repo=Barrel)](https://github.com/DavyCraft648/Barrel)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarrelMC&repo=Barrel)](https://github.com/BarrelMC/Barrel)</br>
 <sup>``Proxy that turns itself on.
 Almost nothing is supported at the moment``</sup></br>
 ### Plugins
