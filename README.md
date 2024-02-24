@@ -1,4 +1,7 @@
 
+BDS
+https://www.minecraft.net/en-us/download/server/bedrock
+
 # Recommend Bedrock Softwares
 This repository is a collection of softwares and proxies for minecraft Bedrock that I used and can recommend to some extent
 
