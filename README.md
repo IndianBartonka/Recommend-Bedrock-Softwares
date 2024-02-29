@@ -1,20 +1,27 @@
-
-BDS
-https://www.minecraft.net/en-us/download/server/bedrock
-TOOD: Add info
-
 # Recommend Bedrock Softwares
 This repository is a collection of softwares and proxies for minecraft Bedrock that I used and can recommend to some extent
 
 # Managment Applications
 ### Bedrock Dedicated Server
 [![BDS-Auto-Enable](https://github-readme-stats.vercel.app/api/pin/?username=Huje22&repo=Bds-Auto-Enable)](https://github.com/Huje22/Bds-Auto-Enable)<br>
-<sup>``This is server process luncher for auto restart, world backup, crash auto enble and more for bds , currently only in Polish language`` <br>(Still have so many changes)</sup><br>
+<sup>``This is server process luncher for auto restart, world backup, crash auto enable, extensions support and more for bds, currently only in Polish language`` <br>(Still have so many changes)</sup><br>
 
 # Server Software
 ### Most recommended 
+
+<div style="text-align: center; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/github/explore/7788975ac9a944a946bf49b2048fc45a8f62aa32/topics/bedrock-dedicated-server/bedrock-dedicated-server.png" alt="BDS" width="70" height="70"><br>
+    <sup><code>Vanilla Bedrock server, maybe lagged with many addons</code></sup>
+    <sup><code><a href="https://www.minecraft.net/en-us/download/server/bedrock">Download</a></code></sup>
+</div>
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdsx&repo=bdsx)](https://github.com/bdsx/bdsx)</br>
 <sup>``This is Bedrock Dedicated Server in extended version``</sup></br>
+
+
+//TODO: Zaktualizować info o PNX i Jukebox + dodać nukkit MOT
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CloudburstMC&repo=Nukkit)](https://github.com/CloudburstMC/Nukkit)</br>
 <sup>``Continuation of nukkit by cloudburst``</sup></br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petterim1&repo=NukkitPetteriM1Edition)](https://github.com/PetteriM1/NukkitPetteriM1Edition)</br>
